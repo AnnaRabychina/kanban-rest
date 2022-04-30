@@ -13861,3 +13861,35 @@
 {"level":30,"time":1648507939452,"pid":50,"hostname":"3eadc5ba99e3","msg":"Mapped {/file, POST} route"}
 {"level":30,"time":1648507939452,"pid":50,"hostname":"3eadc5ba99e3","msg":"Mapped {/file/:taskid/:filename, GET} route"}
 {"level":30,"time":1648507939459,"pid":50,"hostname":"3eadc5ba99e3","msg":"Nest application successfully started"}
+{"level":30,"time":1651359283995,"pid":13716,"hostname":"Admin-PC","msg":"AppController {/}:"}
+{"level":30,"time":1651359284001,"pid":13716,"hostname":"Admin-PC","msg":"Mapped {/, GET} route"}
+{"level":30,"time":1651359284001,"pid":13716,"hostname":"Admin-PC","msg":"UsersController {/users}:"}
+{"level":30,"time":1651359284003,"pid":13716,"hostname":"Admin-PC","msg":"Mapped {/users, GET} route"}
+{"level":30,"time":1651359284005,"pid":13716,"hostname":"Admin-PC","msg":"Mapped {/users/:id, GET} route"}
+{"level":30,"time":1651359284006,"pid":13716,"hostname":"Admin-PC","msg":"Mapped {/users/:id, DELETE} route"}
+{"level":30,"time":1651359284008,"pid":13716,"hostname":"Admin-PC","msg":"Mapped {/users/:id, PUT} route"}
+{"level":30,"time":1651359284008,"pid":13716,"hostname":"Admin-PC","msg":"AuthController {/}:"}
+{"level":30,"time":1651359284011,"pid":13716,"hostname":"Admin-PC","msg":"Mapped {/signin, POST} route"}
+{"level":30,"time":1651359284013,"pid":13716,"hostname":"Admin-PC","msg":"Mapped {/signup, POST} route"}
+{"level":30,"time":1651359284013,"pid":13716,"hostname":"Admin-PC","msg":"BoardsController {/boards}:"}
+{"level":30,"time":1651359284015,"pid":13716,"hostname":"Admin-PC","msg":"Mapped {/boards, GET} route"}
+{"level":30,"time":1651359284018,"pid":13716,"hostname":"Admin-PC","msg":"Mapped {/boards/:id, GET} route"}
+{"level":30,"time":1651359284019,"pid":13716,"hostname":"Admin-PC","msg":"Mapped {/boards, POST} route"}
+{"level":30,"time":1651359284020,"pid":13716,"hostname":"Admin-PC","msg":"Mapped {/boards/:id, DELETE} route"}
+{"level":30,"time":1651359284021,"pid":13716,"hostname":"Admin-PC","msg":"Mapped {/boards/:id, PUT} route"}
+{"level":30,"time":1651359284021,"pid":13716,"hostname":"Admin-PC","msg":"ColumnsController {/boards/:boardId/columns}:"}
+{"level":30,"time":1651359284023,"pid":13716,"hostname":"Admin-PC","msg":"Mapped {/boards/:boardId/columns, GET} route"}
+{"level":30,"time":1651359284024,"pid":13716,"hostname":"Admin-PC","msg":"Mapped {/boards/:boardId/columns/:columnId, GET} route"}
+{"level":30,"time":1651359284025,"pid":13716,"hostname":"Admin-PC","msg":"Mapped {/boards/:boardId/columns, POST} route"}
+{"level":30,"time":1651359284025,"pid":13716,"hostname":"Admin-PC","msg":"Mapped {/boards/:boardId/columns/:columnId, DELETE} route"}
+{"level":30,"time":1651359284027,"pid":13716,"hostname":"Admin-PC","msg":"Mapped {/boards/:boardId/columns/:columnId, PUT} route"}
+{"level":30,"time":1651359284027,"pid":13716,"hostname":"Admin-PC","msg":"TasksController {/boards/:boardId/columns/:columnId/tasks}:"}
+{"level":30,"time":1651359284029,"pid":13716,"hostname":"Admin-PC","msg":"Mapped {/boards/:boardId/columns/:columnId/tasks, GET} route"}
+{"level":30,"time":1651359284030,"pid":13716,"hostname":"Admin-PC","msg":"Mapped {/boards/:boardId/columns/:columnId/tasks/:taskId, GET} route"}
+{"level":30,"time":1651359284031,"pid":13716,"hostname":"Admin-PC","msg":"Mapped {/boards/:boardId/columns/:columnId/tasks, POST} route"}
+{"level":30,"time":1651359284032,"pid":13716,"hostname":"Admin-PC","msg":"Mapped {/boards/:boardId/columns/:columnId/tasks/:taskId, DELETE} route"}
+{"level":30,"time":1651359284034,"pid":13716,"hostname":"Admin-PC","msg":"Mapped {/boards/:boardId/columns/:columnId/tasks/:taskId, PUT} route"}
+{"level":30,"time":1651359284034,"pid":13716,"hostname":"Admin-PC","msg":"FileController {/}:"}
+{"level":30,"time":1651359284035,"pid":13716,"hostname":"Admin-PC","msg":"Mapped {/file, POST} route"}
+{"level":30,"time":1651359284036,"pid":13716,"hostname":"Admin-PC","msg":"Mapped {/file/:taskid/:filename, GET} route"}
+{"level":30,"time":1651359284042,"pid":13716,"hostname":"Admin-PC","msg":"Nest application successfully started"}
